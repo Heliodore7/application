@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+form{
+    font-size: large;
+    h1{
+        border-radius: 2rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+}
+
+#container{
+    font-size: larger;
+    border-radius: 30px;
+    justify-content: center;
+}
